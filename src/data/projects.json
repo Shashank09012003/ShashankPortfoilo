@@ -1,0 +1,19 @@
+[
+  {
+    "title": "NETFLIX",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest HTML & CSS",
+    "skills": ["HTML", "CSS", "SAAS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Shashank09012003/netflix-Project1"
+  },
+  {
+    "title": "Spotify clone",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JAVASCRIPT", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Shashank09012003/Project-2---Spotify-Clone"
+  }
+ 
+]
